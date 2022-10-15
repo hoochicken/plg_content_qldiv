@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="3.x" group="content" method="upgrade">
+    <name>PLG_CONTENT_QLDIV</name>
+    <author>Mareike Riegel</author>
+    <creationDate>2018</creationDate>
+    <copyright>Copyright (C) 2018 ql.de All rights reserved.</copyright>
+    <authorEmail>mareike.riegel@ql.de</authorEmail>
+    <authorUrl>http://ql.de/</authorUrl>
+    <version>1.7.4</version>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <description>PLG_CONTENT_QLDIV_DESCRIPTION</description>
+    <updateservers>
+        <server type="extension" priority="1" name="qldiv - Updates"><![CDATA[https://www.blackforest-software.com/_scripts/updates/plg_content_qldiv.xml]]></server>
+    </updateservers>
+    <files>
+        <filename plugin="qldiv">qldiv.php</filename>
+        <filename plugin="qldiv">index.html</filename>
+        <folder plugin="qldiv">language</folder>
+    </files>
+    <languages>
+        <language tag="en-GB">language/en-GB/en-GB.plg_content_qldiv.ini</language>
+        <language tag="en-GB">language/en-GB/en-GB.plg_content_qldiv.sys.ini</language>
+        <language tag="de-DE">language/de-DE/de-DE.plg_content_qldiv.ini</language>
+        <language tag="de-DE">language/de-DE/de-DE.plg_content_qldiv.sys.ini</language>
+    </languages>
+	<config>
+		<fields name="params">
+		</fields>
+	</config>
+</extension>
