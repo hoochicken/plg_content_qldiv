@@ -1,12 +1,12 @@
  <updates>
 	 <update>
-		<name>qltabs</name>
+		<name>qldiv</name>
 		<client>site</client>
 		<type>plugin</type>
 		<folder>content</folder>
-		<element>qltabs</element>
+		<element>qldiv</element>
 		<version>1.8.0</version>
-		<description>Content plugin for parsing text as markdown</description>
+		<description>Content plugin for displaying div boxes</description>
 		<infourl title="ql.de - Blackforest Software">https://ql.de</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/hoochicken/plg_content_qldiv/archive/refs/tags/v1.8.0.zip</downloadurl>
