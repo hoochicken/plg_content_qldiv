@@ -6,7 +6,11 @@
 		<folder>content</folder>
 		<element>qldiv</element>
 		<version>1.8.0</version>
+<<<<<<< HEAD
 		<description>Content plugin for parsing text as markdown</description>
+=======
+		<description>Content plugin for displaying div boxes</description>
+>>>>>>> 9da5728f36ae792d8c96d1c106907e4bb00b2a22
 		<infourl title="ql.de - Blackforest Software">https://ql.de</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/hoochicken/plg_content_qldiv/archive/refs/tags/v1.8.0.zip</downloadurl>
