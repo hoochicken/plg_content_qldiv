@@ -15,8 +15,8 @@
     <files>
         <filename plugin="qldiv">qldiv.php</filename>
         <filename plugin="qldiv">index.html</filename>
-        <folder>language</folder>
         <folder>_jupdate</folder>
+        <folder>language</folder>
     </files>
     <languages>
         <language tag="en-GB">language/en-GB/en-GB.plg_content_qldiv.ini</language>
