@@ -18,3 +18,8 @@ This tag generates
 ~~~shell
 <div class="grey" id="weather" style="background:red;font-size:10px;">Und hier ist ein Inhalt drin</qldiv>
 ~~~
+
+## What about a coffee ..
+
+I love coding. My extensions are for free. Wanna say thanks? You're welcome! 
+<https://www.buymeacoffee.com/mareikeRiegel>
