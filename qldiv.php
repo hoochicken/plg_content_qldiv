@@ -7,11 +7,13 @@
  */
 
 //no direct access
+use Joomla\CMS\Plugin\CMSPlugin;
+
 defined('_JEXEC') or die ('Restricted Access');
 
 jimport('joomla.plugin.plugin');
 
-class plgContentQldiv extends JPlugin
+class plgContentQldiv extends CMSPlugin
 {
 
     protected $strTag = 'qldiv';
